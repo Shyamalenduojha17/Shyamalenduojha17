@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud & DevOps**
 
-- 💬 Ask me about **Git, Linux, Docker, Jenkins,**
+- 💬 Ask me about **DevOps Tools and Practices**
 
 - 📫 How to reach me **ojhashyamalendu17@gmail.com**
 
