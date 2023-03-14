@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQGrGJ4wzEGg7w/article-cover_image-shrink_720_1280/0/1520170566570?e=1677715200&v=beta&t=uBntA6R40_oIG6R0XpmpjREtwpTH-iMFIxjipNX-Dnw)]
 <h1 align="center">Hi 👋, I'm Shyamalendu Ojha</h1>
 <h3 align="center">A DevOps Guys who Love to Automate Stuff</h3>
 <img align="right" alt="Devops" width="300" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif">
