@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Digit**
 
-- 🌱 I’m currently learning **Cloud & DevOps**
+- 🌱 I’m currently learning **Cloud & DevOps**. Also worked on Cloud & DevOps Based Project to gain Hands-On Experience.
 
 - 💬 Ask me about **DevOps Tools and Practices**
 
