@@ -2,8 +2,6 @@
 <h3 align="center">A DevOps Guys who Love to Automate Stuff</h3>
 <img align="right" alt="Devops" width="300" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif">
 
-- 🔭 I’m currently working on **Digit**
-
 - 🌱 I’m currently learning **Cloud & DevOps**. Also worked on Cloud & DevOps Based Project to gain Hands-On Experience.
 
 - 💬 Ask me about **DevOps Tools and Practices**
