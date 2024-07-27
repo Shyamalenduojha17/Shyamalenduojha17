@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **DevOps Tools and Practices**
 
-- 📫 How to reach me **ojhashyamalendu17@gmail.com**
+- 📫 How to reach me **shyamalenduojha5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
